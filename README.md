@@ -7,10 +7,7 @@ on Microbiome Association Networks"
 
 ## Overview
 
-This repository contains the code used to preprocess the HMP
-microbiome dataset, construct five microbial association networks,
-calculate network statistics, compare networks, and generate the
-figures used in the paper.
+Hello! This repository contains all the data, code, and figures used in my project. Below is a rough analysis pipeline. 
 
 ## Analysis pipeline
 
@@ -26,7 +23,7 @@ figures used in the paper.
 10. Generate the figures and tables used in the paper.
 
 Ran on:
-Python 3.13.7
-R 4.6.0 
+Python version [3.13.7]
+R version [4.6.0] 
 
 ...
