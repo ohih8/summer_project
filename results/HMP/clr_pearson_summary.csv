@@ -1,0 +1,2 @@
+Method,Nodes,Edges,Density,Average Degree,Maximum Degree,Minimum Degree,Connected Components,Largest Component,Average Clustering
+clr_pearson,171,1886,0.12975576195390437,22.058479532163744,74,1,1,171,0.39555104945953157

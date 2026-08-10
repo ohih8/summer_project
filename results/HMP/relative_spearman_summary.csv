@@ -1,0 +1,2 @@
+Method,Nodes,Edges,Density,Average Degree,Maximum Degree,Minimum Degree,Connected Components,Largest Component,Average Clustering
+relative_spearman,171,2181,0.1500515995872033,25.50877192982456,75,0,2,170,0.42583218626452035

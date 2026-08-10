@@ -1,0 +1,6 @@
+Method,PositiveEdges,NegativeEdges,PercentPositive
+relative_spearman,1818.0,363.0,0.8335625859697386
+relative_pearson,1096.0,4.0,0.9963636363636363
+clr_spearman,3959.0,1070.0,0.7872340425531915
+clr_pearson,1047.0,839.0,0.5551431601272534
+spiec,,,

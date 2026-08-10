@@ -1,0 +1,2 @@
+Method,Nodes,Edges,Density,Average Degree,Maximum Degree,Minimum Degree,Connected Components,Largest Component,Average Clustering
+clr_spearman,171,5029,0.34599243206054353,58.8187134502924,112,3,1,171,0.6079733575103962

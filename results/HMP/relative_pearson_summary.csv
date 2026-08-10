@@ -1,0 +1,2 @@
+Method,Nodes,Edges,Density,Average Degree,Maximum Degree,Minimum Degree,Connected Components,Largest Component,Average Clustering
+relative_pearson,171,1100,0.07567939456484347,12.865497076023392,41,0,4,168,0.4029495999915564
